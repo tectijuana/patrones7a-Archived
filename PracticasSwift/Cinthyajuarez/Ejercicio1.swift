@@ -13,7 +13,7 @@ Juarez Medina Yesifer Cinthya - 13211442
 
 Descripción del problema:
 Imprimir si las siguientes ecuaciones tienen la misma recta
-				3y-21x=12		y-7x=9
+		3y-21x=12		y-7x=9
 */
 
 
