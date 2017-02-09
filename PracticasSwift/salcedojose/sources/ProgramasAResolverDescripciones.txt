@@ -1,0 +1,53 @@
+Problema 5:31
+Un jugador entra al casino de las vegas con $1000 y apuesta $1 al negro de la ruleta cada
+minuto. ¿Cual es la probabilidad de que tenga $1000 o mas al cabo de una hora?
+
+Problema 5:32
+Cuando gira una ruleta americana (0 y 00) ¿cual es la probabilidad de que el
+resultado sea: a) 0; b) 00; c) 0 o 00; d) par; e) en el primer 12; f) en la
+segunda columna y g) 4, 5, 6, 7, 8 o 9?
+
+Problema 5:33
+Willie Bigstep, catcher de los Medias Rojas de Houston, tiene una probabilidad
+de .3 de pegar un hit cada vez que batea. ¿Cual es la probabilidad en 50
+veces al bat de que su promedio sea menor de .250?
+
+Problema 5:34
+Un politico en campaña arroja 10,000 panfletos sobre una ciudad que tiene
+2,000 manzanas. Suponer que cada panfleto tiene una probabilidad igual de
+aterrizar en cada manzana. ¿Cual es la probabilidad de que una cierta manzana
+no reciba panfletos?
+
+Problema 5:35
+Los matematicos sostienen que en un grupo formado al azar con alrededor de 23
+personas, la probabilidad de que dos o mas de los integrantes tengan la misma
+fecha de nacimiento (mes y dia) es 0.5. Escribir un programa para seleccionar
+23 nacimientos al azar y hacer que el programa determine si dos cualesquiera
+de ellos tienen la misma fecha. Correr el programa varias veces.
+
+Problema 5:36
+Usted se encuentra en una habitacion con otras 29 personas. ¿Cual es la
+probabilidad de una de ellas tengan la misma fecha de nacimiento que usted?
+
+Problema 5:37
+Calcular e imprimir una tabla de probabilidades teoricas de que dos personas
+en una habitacion con N personas tengan la misma fecha de nacimiento. Variar a
+N de 1 a 50.
+
+Problema 5:38
+Doce personas estan en una habitacion. Utilizar una simulacion en computadora
+para determinar aproximadamente la probabilidad de que al menos tres de ellas
+tengan la fecha de su nacimiento en el mismo mes.
+
+Problema 5:39
+Suponer que giramos una perinola dividida equitativamente en tres regiones
+numeradas 1, 2 y 3. En este experimento hay solo tres posibles resultados: 1,
+2 y 3. La probabilidad teorica de obtener una cualquiera de ellas es 1/3.
+Simular el giro de la perinola 1,000 veces. ¿El resultado calculado se
+aproxima a la probabilidad teorica?
+
+Problema 5:40
+El acuñador del rey pone 500 monedas en una caja y coloca una falsa por cada
+caja. El rey sospecha, pero en lugar de probar todas las monedas en una caja,
+saca una moneda al azar de cada una de las 500 cajas. ¿Cual es la probabilidad
+de que encuentre al menos una falsa?
