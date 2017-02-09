@@ -1,5 +1,5 @@
 /*
-Nombre del programa:
+Nombre del programa: Problema 5:31
 Autor: Salcedo Morales Jose Manuel
 Fecha de inicio:
 Descripcion:
@@ -7,6 +7,3 @@ Descripcion:
 
 // Importacion de librerias.
 import Foundation
-
-// Imprimir mensaje.
-print("Hola mundo. :)")
