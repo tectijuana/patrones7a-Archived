@@ -1,6 +1,6 @@
 /*Neria Diaz Anthony Emmanuel 13211468
 Patrones de diseño
-Programa 28: Introducir X, la longitud de un lado de un
+Ejercicio 28: Introducir X, la longitud de un lado de un
 triangulo equilatero y calcular su perimetro*/
 
 var X = 58 // X es igual a un lado del triangulo equilatero
