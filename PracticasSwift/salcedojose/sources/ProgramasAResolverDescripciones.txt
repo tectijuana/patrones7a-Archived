@@ -1,6 +1,7 @@
 Problema 5:31
-Un jugador entra al casino de las vegas con $1000 y apuesta $1 al negro de la ruleta cada
-minuto. ¿Cual es la probabilidad de que tenga $1000 o mas al cabo de una hora?
+Un jugador entra al casino de las vegas con $1000 y apuesta $1 al negro de la
+ruleta cada minuto. ¿Cual es la probabilidad de que tenga $1000 o mas
+al cabo de una hora?
 
 Problema 5:32
 Cuando gira una ruleta americana (0 y 00) ¿cual es la probabilidad de que el
