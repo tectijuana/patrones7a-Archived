@@ -6,7 +6,7 @@ Practica 1: Ddo 3 elementos cualesquiera de un triangulo, de los cuales uno debe
 var LadoA = 15// lado de triangulo
 var LadoC = 15//  base del triangulo
 var altura = 20//altura del triangulo
-var area = (base * altura)/2 //el area de un triangulo es (B x H) / 2 
+var area = (LadoC * altura)/2 //el area de un triangulo es (B x H) / 2 
 //se imprimen los resultados
 print("Base",LadoC)
 print("Altura",altura)
