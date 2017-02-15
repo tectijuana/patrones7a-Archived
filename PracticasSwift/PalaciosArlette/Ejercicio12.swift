@@ -1,6 +1,5 @@
 /*
   Palacios Lee Arlette 12211431
-
   Programa para resolver el siguiente problema:
   12. Un triángulo rectángulo tiene un ángulo de 42° 25" y el lado opuesto a este ángulo mide 25.4 cm. Encontrar los otros lados del triángulo.
 */
