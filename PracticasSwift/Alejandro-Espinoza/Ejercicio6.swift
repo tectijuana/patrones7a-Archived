@@ -12,18 +12,18 @@ import Foundation
 
 var numero = 9.0
 
-/* Ciclo while que realiza la raíz cuadradra */
+/* Ciclo while que realiza la raíz cuadrada */
 
 while numero <= 25
 {
 	
-/* Calcular raíz cuadradra */
+/* Calcular raíz cuadrada */
 	
 var Rnum = sqrt(numero)
 	
 /* Imprime los resultados */
 
-print ("La raiz cuadradra de \(numero) es: \(Rnum)")
+print ("La raiz cuadrada de \(numero) es: \(Rnum)")
 	
 /* Suma el valor de n una unidad */
 	
