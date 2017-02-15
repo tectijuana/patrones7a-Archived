@@ -181,11 +181,9 @@ while (persona < NACIMIENTOS) {
 	persona = persona + 1
 }
 
-// Determinar los nacimientos que son compartidos por dos o mas personas.0
+// Determinar los nacimientos que son compartidos por dos o mas personas.
 var nacimientosIguales = [Nacimiento]()
-
 var personaActual = 0
-
 while (personaActual < NACIMIENTOS) {
 	// Capturar mes y dia de nacimiento de persona actual.
 	let mesActual: Int = nacimientoPersona[personaActual].mes
