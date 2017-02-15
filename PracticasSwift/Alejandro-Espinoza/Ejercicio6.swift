@@ -10,23 +10,23 @@ import Foundation
 
 /* Declaración de variables */
 
-var n = 9.0
+var numero = 9.0
 
 /* Ciclo while que realiza la raíz cuadradra */
 
-while n <= 25
+while numero <= 25
 {
 	
 /* Calcular raíz cuadradra */
 	
-var Cn = sqrt(n)
+var Rnum = sqrt(numero)
 	
 /* Imprime los resultados */
 
-print ("La raiz cuadradra de \(n) es: \(Cn)")
+print ("La raiz cuadradra de \(numero) es: \(Rnum)")
 	
 /* Suma el valor de n una unidad */
 	
-n = n + 1.0
+numero = numero + 1.0
 	
 }
