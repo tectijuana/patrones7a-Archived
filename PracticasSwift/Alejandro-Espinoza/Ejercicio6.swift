@@ -25,7 +25,7 @@ var Rnum = sqrt(numero)
 
 print ("La raiz cuadrada de \(numero) es: \(Rnum)")
 	
-/* Suma el valor de n una unidad */
+/* Suma al valor de número una unidad */
 	
 numero = numero + 1.0
 	
