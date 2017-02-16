@@ -1,20 +1,20 @@
 /* Espinoza Covarrubias Alejandro 13211465 */
-/* Patrones de diseño */
+/* Patrones de diseÃ±o */
 /* Capitulo 2 */
 /* Ejercicio 9 */
-/* Calcular el cuadrado, cubo, raíz cuadrada y raíz cúbica de los enteros del 1 al 1000. Imprimir los resultados en forma tabular */
+/* Calcular el cuadrado, cubo, raÃ­z cuadrada y raÃ­z cÃºbica de los enteros del 1 al 1000. Imprimir los resultados en forma tabular */
 
-/* Importa librería para utlizar funciones matemáticas */
+/* Importa librerÃ­a para utlizar funciones matemÃ¡ticas */
 
 import Foundation
 
-/* Declaración de variables */
+/* DeclaraciÃ³n de variables */
 
 var numero = 1.0
 
-/* Ciclo while que realiza la raíz cuadradra */
+/* Ciclo while que realiza la raÃ­z cuadradra */
 
-print("\tNumero\t|\tCuadrado\t|\tCubo\t\t\t|\tRaiz Cuadrada\t\t|\tRaiz Cúbica\t")
+print("\tNumero\t|\tCuadrado\t|\tCubo\t\t\t|\tRaiz Cuadrada\t\t|\tRaiz CÃºbica\t")
 print("----------------------------------------------------------------------------------------------------------------------------------------------")
 
 while numero <= 1000
@@ -27,11 +27,11 @@ while numero <= 1000
 	
 	var CubNum = numero * numero * numero
 	
-	/* Calcular raíz cuadrada */
+	/* Calcular raÃ­z cuadrada */
 	
 	var RaizNum = sqrt(numero)
 	
-	/* Calcular raíz cúbica */
+	/* Calcular raÃ­z cÃºbica */
 	
 	var RaCuNum = pow(numero,(1/3))
 	
@@ -39,7 +39,7 @@ while numero <= 1000
 	
 	print("\t\(numero)\t|\t\(CuaNum)\t\t|\t\(CubNum)\t\t\t|\t" + (String(format:"%.3f",RaizNum)) + "\t\t\t|\t\t" + (String(format:"%.3f",RaCuNum)) + "\t")
 	
-	/* Suma el valor de n una unidad */
+	/* Suma al valor de numero una unidad */
 	
 	numero = numero + 1.0
 	
