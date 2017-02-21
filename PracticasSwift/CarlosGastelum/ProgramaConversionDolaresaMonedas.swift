@@ -8,7 +8,7 @@ Introducir un entero N positivo. Encontrar la suma de los N enteros. Imprimir ca
 */
 
 
-// librerías
+// librerÃ­as
 
 import Foundation
 
@@ -47,8 +47,8 @@ print("Conversion dolares a monedas")
 print("DOLLAR = \(dollar)")
 
 /*
-Seccion de ciclos para determinar la cantidad de monedas de cada denominacion. Una vez que se llega a un punto donde no se puede obtener una moneda, se concatena el resutlado e inicia el siguiente ciclo de moneda de menor valor.
-*/ 
+Implementacion de los ciclos para determinar la cantidad de monedas...
+*/
 while dollar  >= 0.5
 {	
  half +=  1
