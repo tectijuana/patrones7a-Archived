@@ -21,28 +21,32 @@ let NUMERO_MONEDA_FALSA_EN_CAJA: Int = 1 // Cantidad de monedas falsas en una ca
 // PRINCIPAL.
 
 // Calcular la probabilidad de sacar la moneda falsa de una caja.
-let probabilidadObtenerFalsa: Double = (Double(NUMERO_MONEDA_FALSA_EN_CAJA) / Double(MONEDAS_EN_CAJA)) * 100.0
+let probabilidadAutentica: Double = Double(MONEDAS_EN_CAJA - NUMERO_MONEDA_FALSA_EN_CAJA) / Double(MONEDAS_EN_CAJA)
+let probabilidadFalsa: Double = 1.0 - probabilidadAutentica
 
 // De acuerdo a la ley de eventos independientes.
 // Calcular la probabilidad de obtener una moneda falsa si se saca una moneda
 // de cada caja.
-var probabilidadMonedaFalsaEnCajas: Double = 1.0
+var probabilidadObtenerAutentica: Double = 1.0
 var caja: Int = 0
 while (caja < NUMERO_CAJAS) {
-	let probabilidad = probabilidadMonedaFalsaEnCajas * probabilidadObtenerFalsa
+	let probabilidad = probabilidadObtenerAutentica * probabilidadAutentica
 
 	if (probabilidad != 0.0) {
-		probabilidadMonedaFalsaEnCajas = probabilidad
+		probabilidadObtenerAutentica = probabilidad
 	} else {
 		caja = NUMERO_CAJAS
 	}
 	caja = caja + 1
 }
 
+// Probabilidad de obtener una moneda falsa.
+let probabilidadObtenerFalsa: Double = 1.0 - probabilidadObtenerAutentica
+
 // Desplegar informacion sobre las probabilidades.
-print("Probabilidad de obtener una moneda falsa en una caja: " + String(probabilidadObtenerFalsa) + "%")
+print("Probabilidad de obtener una moneda falsa en una caja: " + String(probabilidadFalsa) + "%")
 print("Probabilidad de obtener una moneda falsa en las " + String(NUMERO_CAJAS) + " caja(s):")
-print(String(probabilidadMonedaFalsaEnCajas) + "%")
+print(String(probabilidadObtenerFalsa * 100.0) + "%")
 
 // Indicar final de ejecucion.
 print("\nFINAL DE EJECUCION.\n")
