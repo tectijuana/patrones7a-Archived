@@ -1,9 +1,9 @@
 /*
 Nombre del programa: ...................dolares a monedas
- Creado por: Carlos Gastelum Nieves ..........  Gastelum Nieves Carlos 
+ Creado por:............................. Carlos Gastelum Nieves 
  No Control: .................................................14210456 
  Fecha ......................................................17-02-2017
-  
+ Practicas Swift del libro..............................................
 
 */
 
