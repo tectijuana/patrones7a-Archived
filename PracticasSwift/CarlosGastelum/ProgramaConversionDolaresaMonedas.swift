@@ -4,8 +4,7 @@ Nombre del programa: ...................dolares a monedas
  No Control: .................................................14210456 
  Fecha ......................................................17-02-2017
   
-Introducir un entero N positivo. Encontrar la suma de los N enteros. Imprimir cada uno de los enteros y la suma.
-*/
+
 
 
 // librerías
