@@ -74,8 +74,8 @@ func GenerarNumeroAleatorio(minimo: Int, maximo: Int) -> Int {
 // Obtener la probabilidad de acuerdo a un problema tipo poisson.
 func ProbabilidadPoissonCombinacion(valorDeExito: Int, numeroDeCasos: Int, posiblesEventos: Int) -> Double {
 	var probabilidad: Double = 0.0
-	let combinaciones: Double = factorial(n: Double(numeroDeCasos)) / ((Double(numeroDeCasos) - factorial(n: Double(valorDeExito))) * factorial(n: Double(valorDeExito)))
-	let probabilidadNoOcurrir: Double = exp(combinaciones / pow(Double(posiblesEventos), Double(2)))
+	let combinaciones: Double = factorial(n: Double(numeroDeCasos)) / (factorial(n: Double(numeroDeCasos) - Double(valorDeExito)) * factorial(n: Double(valorDeExito)))
+	let probabilidadNoOcurrir: Double = exp((combinaciones / pow(Double(posiblesEventos), Double(2))) * (-1.0))
 	probabilidad = (1.0 - probabilidadNoOcurrir) * 100.0
 
 	return probabilidad
@@ -120,7 +120,7 @@ while (persona < PERSONAS) {
 
 // Desplegar la probabilidad de repeticion de natalicios entre las personas.
 let probabilidadRepeticion: Double = ObtenerProbabilidadMismoNatalicio(grupoPersonas: NACIMIENTOS_REPETIDOS, totalPersonas: PERSONAS, totalDias: MESES)
-print("Probabilidad de que " + String(NACIMIENTOS_REPETIDOS) + " personas en una habitacion tengan la misma fecha de nacimiento: " + String(probabilidadRepeticion))
+print("Probabilidad de que " + String(NACIMIENTOS_REPETIDOS) + " personas en una habitacion tengan la misma fecha de nacimiento: " + String(probabilidadRepeticion) + "%")
 
 // Desplegar los meses que se repitieron definidas veces en esta corrida.
 var mes: Int = 1

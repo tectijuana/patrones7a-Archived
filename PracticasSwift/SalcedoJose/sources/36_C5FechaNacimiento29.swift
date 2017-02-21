@@ -52,8 +52,8 @@ func ProbabilidadMismoNatalicio(numeroPersonas: Int) -> Double {
 // Definir la probabilidad de tener una misma fecha de nacimiento con otras personas en la misma habitacion.
 let probabilidadNacimientoRepetido: Double = ProbabilidadMismoNatalicio(numeroPersonas: PERSONAS + 1)
 // Desplegar la probabilidad para el numero de personas pedido.
-print("Probabilidad de tener una misma fecha de nacimiento con otras " + String(PERSONAS) + " personas en la misma habitacion: ")
-print(probabilidadNacimientoRepetido)
+print("Probabilidad de tener una misma fecha de nacimiento con otras " + String(PERSONAS) + " personas en la misma habitacion es de: ")
+print(String(probabilidadNacimientoRepetido) + "%")
 
 // Desplegar fin de ejecucion.
 print("\nFIN DE EJECUCION.\n")
