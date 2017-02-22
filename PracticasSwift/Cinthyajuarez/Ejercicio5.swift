@@ -23,6 +23,7 @@ var x=0, y=0
 x =  ((Ecuacion2[2] * Ecuacion1[1]) - (Ecuacion1[2] * Ecuacion2[1])) / ((Ecuacion1[0] * Ecuacion2[1]) - (Ecuacion2[0] * Ecuacion1[1]))
 
 y = ((Ecuacion1[2] * Ecuacion2[0]) - (Ecuacion2[2] * Ecuacion1[0])) / ((Ecuacion1[0] * Ecuacion2[1]) - (Ecuacion2[0] * Ecuacion1[1]))
-
+	
+	print ("Solucion al sistema de ecuaciones:  109x+71y-260=0 y -260-89x+29y+18=0")
 	print ("x =",x)
 	print ("y =",y)
