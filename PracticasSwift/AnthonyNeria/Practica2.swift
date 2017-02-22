@@ -1,7 +1,7 @@
 /*Neria Diaz Anthony Emmanuel 13211468
 Patrones de diseño
-Capitulo 3, Ejercicio 21
-Practica 1: Ddo 3 elementos cualesquiera de un triangulo, de los cuales uno debe ser un lado, calcular su area*/
+Capitulo 3, Ejercicio 22
+Practica 2: calcular el area de un triangulo conociendo 2 de sus lados y un angulo*/
 
 var LadoA = 15// lado de triangulo
 var LadoC = 15//  base del triangulo

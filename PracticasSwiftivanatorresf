@@ -1,0 +1,8 @@
+
+/* alumno torres flores ivian adrian*/
+/* no. de control 13210388*/
+/*Patrones de Diseño*/
+/* practica 1 mostrar mensaje "hola adrian el mundo es tuyo." */
+
+
+print("hola adrian el mundo es tuyo.")
