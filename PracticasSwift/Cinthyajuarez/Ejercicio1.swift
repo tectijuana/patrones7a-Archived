@@ -26,8 +26,8 @@ var x=0, y=0, z=0
 	z = Ecuacion1[2] / Ecuacion2[2]
 
 if x==y && y==z{
-	print ("Ecuaciones con la misma rescta")
+	print ("La ecuacion 3y-21x=12 y y-7x=9 tienen la misma rescta")
 }
 else{
-	print("Ecuaciones con diferente recta")
+	print("La ecuacion 3y-21x=12 y y-7x=9 tienen diferente recta")
 }
