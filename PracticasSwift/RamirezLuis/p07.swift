@@ -19,7 +19,7 @@ var c3:Int = 0
 
 //Ciclo de 1000 tiros del dado
 for i in 1...1000 {
-	if (Int(random() % 6 + 1) == 3) //Si un número aleatorio entre 1 y 6 es igual a 3
+	if (Int(arc4random() % 6 + 1) == 3) //Si un número aleatorio entre 1 y 6 es igual a 3
 	{
 		c3 = c3 + 1 //Suma 1 al lado 3
 	}

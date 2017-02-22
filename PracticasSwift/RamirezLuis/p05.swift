@@ -25,7 +25,7 @@ var ladorandom:Int
 
 //Ciclo de 60 tiros del dado
 for i in 1...60 {
-	ladorandom = random() % 6 + 1
+	ladorandom = Int(arc4random() % 6 + 1)
 	if (ladorandom == 1) //Si un número aleatorio entre 1 y 6 es igual a 1
 	{
 		c1 = c1 + 1 //Suma 1 al lado 1

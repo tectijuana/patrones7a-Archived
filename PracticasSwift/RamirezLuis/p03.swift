@@ -20,7 +20,7 @@ var csol:Int = 0
 
 //Ciclo de 1000 tiros para la moneda 1
 for i in 1...1000 {
-	if((Int(random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
+	if((Int(arc4random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
 	{
 		caguila = caguila + 1 //Suma 1 a "águila" (igual a 1)
 	}
@@ -41,7 +41,7 @@ csol = 0
 
 //Ciclo de 1000 tiros para la moneda 2
 for i in 1...1000 {
-	if((Int(random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
+	if((Int(arc4random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
 	{
 		caguila = caguila + 1 //Suma 1 a "águila" (igual a 1)
 	}
@@ -62,7 +62,7 @@ csol = 0
 
 //Ciclo de 1000 tiros para la moneda 3
 for i in 1...1000 {
-	if((Int(random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
+	if((Int(arc4random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
 	{
 		caguila = caguila + 1 //Suma 1 a "águila" (igual a 1)
 	}
@@ -82,7 +82,7 @@ csol = 0
 
 //Ciclo de 1000 tiros para la moneda 4
 for i in 1...1000 {
-	if((Int(random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
+	if((Int(arc4random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
 	{
 		caguila = caguila + 1 //Suma 1 a "águila" (igual a 1)
 	}
@@ -102,7 +102,7 @@ csol = 0
 
 //Ciclo de 1000 tiros para la moneda 5
 for i in 1...1000 {
-	if((Int(random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
+	if((Int(arc4random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
 	{
 		caguila = caguila + 1 //Suma 1 a "águila" (igual a 1)
 	}
@@ -121,7 +121,7 @@ csol = 0
 
 //Ciclo de 1000 tiros para la moneda 6
 for i in 1...1000 {
-	if((Int(random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
+	if((Int(arc4random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
 	{
 		caguila = caguila + 1 //Suma 1 a "águila" (igual a 1)
 	}

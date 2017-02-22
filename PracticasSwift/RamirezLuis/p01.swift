@@ -14,7 +14,7 @@ Fecha: 3 de Febrero del 2017
 //Importamos la librería "Foundation" para poder usar números aleatorios
 import Foundation
 
-if((Int(random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
+if((Int(arc4random() % 2+1))==1) //Si un número aleatorio entre 1 y 2 es igual a 1
 {
 	print("águila") //Imprime "águila" (igual a 1)
 }
