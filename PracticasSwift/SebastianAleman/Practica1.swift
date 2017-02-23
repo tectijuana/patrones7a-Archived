@@ -4,6 +4,6 @@
 /*Capitulo I*/
 /*Practica 1: Imprimir numeros enteros del 9 al 43*/
 
-for i in 1...3 {
-    print("hola \(i)")
-}i
+for i in 9...43 {
+    print(\(i)")
+}
