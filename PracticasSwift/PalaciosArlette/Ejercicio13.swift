@@ -2,7 +2,7 @@
  Palacios Lee Arlette 12211431
  
  Programa para resolver el siguiente problema:
- 12. Determinar el área de un triángulo tomando un medio del producto de dos lados por el seno del ángulo comprendido.
+ 13. Determinar el área de un triángulo tomando un medio del producto de dos lados por el seno del ángulo comprendido.
 */
 
 //Librería para utilizar funciones trigonométricas
@@ -19,7 +19,7 @@ var area = (1/2) * a1 * b1 * seno      //Cálculo del área
 
 //En una variable se guarda el problema y datos para imprimirlos posteriormente
 var Problema = "\n" + "Problema:" + "\n" + 
-"12. Determinar el área de un triángulo tomando un medio del producto de dos lados por el seno del ángulo comprendido."
+"13. Determinar el área de un triángulo tomando un medio del producto de dos lados por el seno del ángulo comprendido."
 
 var Datos = "\n \n" + "Datos:" + "\n" + "Lado A: \(String(format:"%.0f", a1)) " + "\n" + "Lado B: \(String(format:"%.0f", b1))" + "\n" + "Ángulo: \(String(format:"%.0f", ang1))"
 
