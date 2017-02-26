@@ -12,7 +12,7 @@ import Foundation
 var hipotenusa: Float = 15       //Tamaño de uno de los lados
 var catetoAd: Float = 12          //Mitad del tamaño del lado más largo de triángulo 
 
-//Operaciones para calcular el área
+//Operaciones para calcular Seno, Coseno y tangente
 var catetoOp: Float = sqrt((pow(hipotenusa, 2))-(pow(catetoAd, 2)))
 var seno =  catetoOp/hipotenusa //Cálculo de seno del ángulo
 var coseno =  catetoAd/hipotenusa //Cálculo de seno del ángulo
