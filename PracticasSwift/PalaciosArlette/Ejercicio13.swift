@@ -23,7 +23,7 @@ var Problema = "\n" + "Problema:" + "\n" +
 
 var Datos = "\n \n" + "Datos:" + "\n" + "Lado A: \(String(format:"%.0f", a1)) " + "\n" + "Lado B: \(String(format:"%.0f", b1))" + "\n" + "Ángulo: \(String(format:"%.0f", ang1))"
 
-var Resultado = "\n \n" + "Resultado:" + "\n" + "(1/2) * \(String(format:"%.0f", a1)) * \(String(format:"%.0f", b1)) * Sen(\(String(format:"%.0f", ang1))) =  \(area)cm^2"
+var Resultado ="\n \n" + "Resultado:" + "\n" + "(1/2) * \(String(format:"%.0f", a1)) * \(String(format:"%.0f", b1)) * Sen(\(String(format:"%.0f", ang1))) =  \(area)cm^2"
 
 //Despliegue de resultados
 print(Problema, Datos, Resultado);
