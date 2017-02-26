@@ -1,5 +1,6 @@
 # LISTA DE COTEJO
 ## BLOQUE 1
+![](https://www.winecurmudgeon.com/wp-content/uploads/2016/09/checklist.jpg)
 ### ELABORACIÓN DE 10 PROGRAMAS EN SWIFT (ver issues)
 ## Favor de llenar la tabla según demuestra el contenido de este directorio.
 
