@@ -30,7 +30,7 @@
 | LOPEZ VALENZUELA MARCO ANTONIO | :x: | :sleeping: |
 | MENDOZA MARTINEZ BEATRIZ DAYHAN | :x: | :sleeping: |
 | NERIA DIAZ ANTHONY EMMANUEL | :x: | :sleeping: |
-| NUÑEZ HARPER IVAN RAEL | :x: | :sleeping: |
+| NUÑEZ HARPER IVAN RAEL | :o: |  |
 | OCHOA ZUÑIGA KENYA | :x: | :sleeping: |
 | ORTEGA RODRIGUEZ ASHLEY KARINA | :x: | :sleeping: |
 | PALACIOS LEE ARLETTE | :x: | :sleeping: |
