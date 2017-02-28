@@ -21,10 +21,10 @@ var ladoR3:Int = 0
 var ladoR4:Int = 0
 
 //Simular el lanzamiento de los 4 dados
-ladoR1 = random() % 6 + 1 //Tirar dado 1, obtener lado (número aleatorio entre 1 y 6)
-ladoR2 = random() % 6 + 1 //Tirar dado 2, obtener lado (número aleatorio entre 1 y 6)
-ladoR3 = random() % 6 + 1 //Tirar dado 3, obtener lado (número aleatorio entre 1 y 6)
-ladoR4 = random() % 6 + 1 //Tirar dado 4, obtener lado (número aleatorio entre 1 y 6)
+ladoR1 = Int(arc4random() % 6 + 1) //Tirar dado 1, obtener lado (número aleatorio entre 1 y 6)
+ladoR2 = Int(arc4random() % 6 + 1) //Tirar dado 2, obtener lado (número aleatorio entre 1 y 6)
+ladoR3 = Int(arc4random() % 6 + 1) //Tirar dado 3, obtener lado (número aleatorio entre 1 y 6)
+ladoR4 = Int(arc4random() % 6 + 1) //Tirar dado 4, obtener lado (número aleatorio entre 1 y 6)
 
 //Imprimimos los lados obtenidos de cada dado
 print("Dado 1: Lado \(ladoR1)")

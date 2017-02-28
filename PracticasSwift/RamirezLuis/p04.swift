@@ -27,7 +27,7 @@ var cNumAguilas10:Int=0 //Contará el numero de águilas por secuencia de 10 tir
 for i in 1...50 {
 	//Secuencia 1 (5 tiros)
 	for j in 1...5 { 
-		if((Int(random() % 2+1)) == 1) //Si un número aleatorio entre 1 y 2 es igual a 1
+		if((Int(arc4random() % 2+1)) == 1) //Si un número aleatorio entre 1 y 2 es igual a 1
 		{
 			cNumAguilas = cNumAguilas + 1 //Suma 1 águila a secuencia de 5 tiros
 			cNumAguilas10 = cNumAguilas10 + 1 //Suma 1 águila  a la secuencia de 10 tiros
@@ -62,7 +62,7 @@ for i in 1...50 {
 
 	//Secuencia 2 (5 tiros)
 	for j in 1...5 { 	//Secuencia de 5 tiros
-		if((Int(random() % 2+1)) == 1) //Si un número aleatorio entre 1 y 2 es igual a 1
+		if((Int(arc4random() % 2+1)) == 1) //Si un número aleatorio entre 1 y 2 es igual a 1
 		{
 			cNumAguilas = cNumAguilas + 1 //Suma 1 águila a secuencia de 5 tiros
 			cNumAguilas10 = cNumAguilas10 + 1 //Suma 1 águila  a la secuencia de 10 tiros

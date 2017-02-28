@@ -22,8 +22,8 @@ var ladoRandom2:Int = 0
 
 //Ciclo de 1000 tiros de los dados
 for i in 1...1000 {
-	ladoRandom1 = random() % 6 + 1 //Tirar dado 1, obtener lado (número aleatorio entre 1 y 6)
-	ladoRandom2 = random() % 6 + 1 //Tirar dado 2, obtener lado (número aleatorio entre 1 y 6)
+	ladoRandom1 = Int(arc4random() % 6 + 1) //Tirar dado 1, obtener lado (número aleatorio entre 1 y 6)
+	ladoRandom2 = Int(arc4random() % 6 + 1) //Tirar dado 2, obtener lado (número aleatorio entre 1 y 6)
 	if(ladoRandom1 + ladoRandom2 == 7) //Si la suma los 2 lados es igual 7
 	{
 		c7 = c7 + 1 //Suma 1 al contador de sietes

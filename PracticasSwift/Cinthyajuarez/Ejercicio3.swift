@@ -25,6 +25,8 @@ var x=0, y=0, z=0
 	y = Ecuacion1[1] / Ecuacion2[1]
 	z = Ecuacion1[2] / Ecuacion2[2]
 
+print ("Las ecuaciones 5x+y=12 y 10x+2y=24 son: ")
+
 if x==y && y==z{
 	print ("Ecuaciones con la misma recta")
 }
