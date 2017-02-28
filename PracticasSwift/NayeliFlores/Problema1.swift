@@ -1,9 +1,13 @@
-// Flores Ruiz Nayeli
-// Patrones de diseño 
+//Instituto Tecnologico de Tijuana
+//Departamento de sistemas y computacion
+
+//Flores Ruiz Nayeli -	-	-	-	-	No. Control: 13211411
+//Materia -	-	-	-	-	-	-	-	Patrones de diseño
+//Hora:	-	-	-	-	-	-	-	-	4:00 pm  a 5:00pm
 // Capitulo 2- Problema 6
 
 
-//Planteamiento> Encontrar las raíces cuadradas de los enteros del 9 al 25. Imprimir el entero y su raíz cudradra */
+//Planteamiento> Encontrar las raíces cuadradas de los enteros del 9 al 25. Imprimir el entero y su raíz cudradra 
 
 import Foundation
 
