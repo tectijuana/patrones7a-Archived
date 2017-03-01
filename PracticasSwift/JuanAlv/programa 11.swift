@@ -1,4 +1,4 @@
-//Title: Problema 11 	   		         Filename: programa11.swift
+//Title: Problema 11 	   		         Filename: programa 11.swift
 //Author: Alvarado Rodriguez Juan Manuel          Date: 22 - Feb - 2017
 //Description: introducir un conjunto de 25 numeros. determinar la cantidad de numeros positivos y negativos del conjunto
 //Input: 25 numeros
