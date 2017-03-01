@@ -17,7 +17,7 @@
 | ESPINOZA COVARRUBIAS SILVERIO ALEJANDRO | :x: | :sleeping: |
 | ESPINOZA HERNANDEZ JOSE AMADEO | :x: | :sleeping: |
 | FLORES JIMENEZ RENATO | :x: | :sleeping: |
-| FLORES RUIZ NAYELI | :o:| :good: |
+| FLORES RUIZ NAYELI | :o:| :bowtie: |
 | GARCIA CARDENAS YAMIRA | :x: | :sleeping: |
 | GARCIA ZUÑIGA ANA KAREN | :x: | :sleeping: |
 | GASTELUM ALEMAN CRISTOBAL | :x: | :sleeping: |
