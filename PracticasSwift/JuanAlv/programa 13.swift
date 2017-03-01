@@ -1,13 +1,13 @@
-//Title: Problema 12	   		         Filename: programa 12.swift
+//Title: Problema 13	   		         Filename: programa 13.swift
 
 //Author: Alvarado Rodriguez Juan Manuel          Date: 22 - Feb - 2017
 
-//Description: encontrar el entero positivo mayor en una lista de quince enteros, algunos de los cuales son impares
+//Description: Determinar el segundo entero mas grande en un conjunto de 15 enteros positivos suministrados como datos.
 
-//Input: 15 numeros
+//Input: 25 numeros
 
-//Output: numero mayor
-//13. Determinar el segundo entero mas grande en un conjunto de 15 enteros positivos suministrados como datos.
+//Output: segundo entero mas grande
+
 
 var arreglo=[Int]()
 //llenado de 25 datos en el arreglo
