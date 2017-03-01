@@ -1,4 +1,4 @@
-/Flores Ruiz Nayeli -	-	-	-	-	No. Control: 13211411
+//Flores Ruiz Nayeli -	-	-	-	-	No. Control: 13211411
 //Materia -	-	-	-	-	-	-	-	Patrones de diseño
 //Hora:	-	-	-	-	-	-	-	-	4:00 pm  a 5:00pm
 // Capitulo 6 - Problema 6
