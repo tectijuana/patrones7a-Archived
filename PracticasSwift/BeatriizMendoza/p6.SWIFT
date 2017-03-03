@@ -1,0 +1,8 @@
+print("Una cantante de Nueva Orlean habita en un departamento de 6 x6 x 6 m. Desea pintar las paredes y el techo con pintura que cubrira 30 metros cuadrados por galon. Cuanta pintura debe comprar?") 
+  
+    	let espacio = (6*6)*5 
+ 
+    	let cantidad = espacio / 30 
+  
+     	print("Necesitara \(cantidad) galones") 
+
