@@ -3,7 +3,7 @@ Instituto Nacional de México
 Instituto Tecnológico de Tijuana
 Patrones de diseño 
 Profesor Rene Solis
-Ejercicio 1
+Ejercicio 10
 Fecha: 3/2/2017
 Juarez Medina Yesifer Cinthya - 13211442
 @CinthyaJuarez
