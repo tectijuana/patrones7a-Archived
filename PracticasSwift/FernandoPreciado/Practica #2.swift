@@ -9,11 +9,12 @@ import Foundation
 var i = 1.0
 for index in 1...20 {
 	i = (i + 1.0)
-    let s = sin(M_PI/i)
-	let c = cos(M_PI/i)
-	let p = pow(s, 2.0)
-	let q = pow(c, 2.0)
-	let z = p + q
+	
+    let s = sin(M_PI/i) //operacion de Seno
+	let c = cos(M_PI/i) //operacion de cosena
+	let p = pow(s, 2.0)//cuadrado de seno
+	let q = pow(c, 2.0) // cuadrado de cosena
+	let z = p + q //suma de ambos
 	print(z)
 }
 
