@@ -24,5 +24,6 @@ x =  ((Ecuacion2[2] * Ecuacion1[1]) - (Ecuacion1[2] * Ecuacion2[1])) / ((Ecuacio
 
 y = ((Ecuacion1[2] * Ecuacion2[0]) - (Ecuacion2[2] * Ecuacion1[0])) / ((Ecuacion1[0] * Ecuacion2[1]) - (Ecuacion2[0] * Ecuacion1[1]))
 
+print ("Solucion al sistema de ecuaciones: 3x+4y=6 y 2x+3y =0")
 	print ("x =",x)
 	print ("y =",y)
