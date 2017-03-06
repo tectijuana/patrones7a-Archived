@@ -1,11 +1,10 @@
 ![](http://tectijuana.edu.mx/wp-content/uploads/2014/11/Heading-Ing-sistemas-2048x672.png)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![First Timers](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](http://www.firsttimersonly.com/)
 
 ![](https://images.cooltext.com/4892940.png)
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-
-
 
 
 
