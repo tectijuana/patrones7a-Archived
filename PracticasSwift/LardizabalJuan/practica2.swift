@@ -6,7 +6,7 @@
 /____  >  \/\_/ |__||__|   |__|  
      \/                      
 Programa 2
-Descripcion : con la formula de heron obten el area de un trianngulo culls lados son 10 14 y 17
+Descripcion : con la formula de heron obten el area de un trianngulo cullos lados son 10 14 y 17
 Nombre: Lardizabal Ramirez Juan Carlos
 
 

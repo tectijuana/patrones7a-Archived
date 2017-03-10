@@ -7,7 +7,7 @@
      \/                      
 Programa 3
 
-Descripcion : Imprimir si las gr·ficas de las dos ecuaciones siguientes representan la misra recta,
+Descripcion : Imprimir si las gr√°ficas de las dos ecuaciones siguientes representan la misma recta,
 rectas paralelas o rectas que se intersectan en un punto.
 				5x+y=12 	10x+2y=24
 

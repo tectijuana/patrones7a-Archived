@@ -6,7 +6,7 @@
 /____  >  \/\_/ |__||__|   |__|  
      \/                      
 Programa 1
-Descripcion : calcular las dimenciones de un prisma dadas l, h, w en este caso l = 15, h = 5,w = 3
+Descripcion : calcular las dimensiones de un prisma dadas l, h, w en este caso l = 15, h = 5,w = 3
 Nombre: Lardizabal Ramirez Juan Carlos
 
 
