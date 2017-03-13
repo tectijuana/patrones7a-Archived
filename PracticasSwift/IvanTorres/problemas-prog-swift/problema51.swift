@@ -6,7 +6,7 @@
 Hacer un programa para calcular la probabilidad de que en un cierto dia en una cierta sala maternal de diez nacimientos que haya, todos sean varoncitos. Utilizar la distribucion binomial
 */
 
-
+/*
 
 dias
 1-7
@@ -22,7 +22,7 @@ hombre
 1/2 *probabilida de que sea un niño
 10/7* probabilidad de que sea un niño a la semana
 10/15 *probabilidad de que sea en una sala
-10/7+10/15=(10*15)+(7*10)=(10500)+(70)=(10570)/(7*15=105)=(10570/105)=2114/21 *probabilida de que sea un niño
+10/7+10/15=(10*15)+(7*10)=(10500)+(70)=(10570)/(7*15=105)=(10570/105)=2114/21 *probabilida de que sea un niño*/
 
 var semana = 7 //dias de la semana
 var salas = 15 //salas de hospital
