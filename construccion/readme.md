@@ -10,7 +10,7 @@ libro. Son un total de cinco: Abstract Factory, Builder, Factory Metho
 | Apple Developer | Categoria | Patrón | Directorio | Definición |
 |------------------------------------------|------------|------------|------------|------------|
 | ALEMAN LOPEZ SEBASTIAN | :sleeping: | :sleeping: | :x: | :sleeping: |
-| ALVARADO RODRIGUEZ JUAN MANUEL | :sleeping: | :sleeping: | :x: | :sleeping: |
+| ALVARADO RODRIGUEZ JUAN MANUEL | construccion | singleton | /MarcoLopezYJuanAlv |En ingeniería de software, el patrón singleton (instancia única en inglés) es un patrón de diseño diseñado para restringir la creación de objetos pertenecientes a una clase o el valor de un tipo a un único objeto.|
 | ALVAREZ CORRAL MIGUEL ANGEL | :sleeping: | :sleeping: | :x: | :sleeping: |
 | BARAJAS BENITEZ LUIS FRANCISCO | :sleeping: | :sleeping: | :x: | :sleeping: |
 | CASTRO MARIEL RICARDO DANIEL | :sleeping: | :sleeping: | :x: | :sleeping: |
@@ -30,8 +30,7 @@ libro. Son un total de cinco: Abstract Factory, Builder, Factory Metho
 | GUERRERO MARTINEZ DANIEL | :sleeping: | :sleeping: | :x: | :sleeping: |
 | JUAREZ MEDINA YESIFER CINTHYA | :sleeping: | :sleeping: | :x: | :sleeping: |
 | LARDIZABAL RAMIREZ JUAN CARLOS | :sleeping: | :sleeping: | :x: | :sleeping: |
-| LOPEZ VALENZUELA MARCO ANTONIO | :sleeping: | :sleeping: | :x: | :sleeping: |
-| MENDOZA MARTINEZ BEATRIZ DAYHAN | :sleeping: | :sleeping: | :x: | :sleeping: |
+| LOPEZ VALENZUELA MARCO ANTONIO | construccion | singleton | /MarcoLopezYJuanAlv |En ingeniería de software, el patrón singleton (instancia única en inglés) es un patrón de diseño diseñado para restringir la creación de objetos pertenecientes a una clase o el valor de un tipo a un único objeto.|| MENDOZA MARTINEZ BEATRIZ DAYHAN | :sleeping: | :sleeping: | :x: | :sleeping: |
 | NERIA DIAZ ANTHONY EMMANUEL | :sleeping: | :sleeping: | :x: | :sleeping: |
 | NUÑEZ HARPER IVAN RAEL | :sleeping: | :sleeping: | :x: | :sleeping: |
 | OCHOA ZUÑIGA KENYA | :sleeping: | :sleeping: | :x: | :sleeping: |
@@ -47,4 +46,4 @@ libro. Son un total de cinco: Abstract Factory, Builder, Factory Metho
 | TORRES FLORES IVAN ADRIAN | :sleeping: | :sleeping: | :x: | :sleeping: |
 | VEGA VEGA CRISTIAN ALEXIS | :sleeping: | :sleeping: | :x: | :sleeping: |
 | VILLEGAS CASTILLO OMAR | :sleeping: | :sleeping: | :x: | :sleeping: |
-| YOUNG PEREZ NELSON JUNIOR | Construccion | Singleton | /Singleton/YoungNelson | Es un patrón de diseño diseñado para restringir la creación de objetos pertenecientes a una clase o el valor de un tipo a un único objeto. |
+| YOUNG PEREZ NELSON JUNIOR | :sleeping: | :sleeping: | :x: | :sleeping: |
