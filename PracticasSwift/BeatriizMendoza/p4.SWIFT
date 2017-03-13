@@ -1,0 +1,6 @@
+print("Va a empapelarse una habitacion. Sus dimesiones son de 4.45 x 5.60 x 2.80 m de anchura, largo y altura, respectivamente. En la habitacion hay dos puertas de 1 x 2.30 m y una ventana de 1.50 x 2 m. Cuantos metros cuadrados de papel se requeriran? (Recuerdese que una habitacion tiene cuatro paredes y que no se necesita papel para las puertas y la ventana")
+  
+	let respuesta = ((5.60*2.80)*4)-((2.30*1*2))-(1.50*2)
+  
+	print ("Se necesitaran \(respuesta) metros cuadrados")
+

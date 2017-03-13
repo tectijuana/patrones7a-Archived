@@ -1,4 +1,10 @@
-//11. introducir un conjunto de 25 numeros. determinar la cantidad de numeros positivos y negativos del conjunto
+//Title: Problema 11 	   		         Filename: programa 11.swift
+//Author: Alvarado Rodriguez Juan Manuel          Date: 22 - Feb - 2017
+//Description: introducir un conjunto de 25 numeros. determinar la cantidad de numeros positivos y negativos del conjunto
+//Input: 25 numeros
+//Output: cantidad de numeros negativos y positivos
+
+
 //random
 func randomInt(min: Int, max:Int) -> Int {
     return min + Int(arc4random_uniform(UInt32(max - min + 1)))
