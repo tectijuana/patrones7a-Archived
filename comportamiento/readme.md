@@ -45,7 +45,7 @@ Visitor
 | RAMIREZ VASQUEZ LUIS FERNANDO | :sleeping: | :sleeping: | :x: | :sleeping: |
 | REYES GUTIERREZ GAMALIEL | :sleeping: | :sleeping: | :x: | :sleeping: |
 | SALCEDO MORALES JOSE MANUEL | :sleeping: | :sleeping: | :x: | :sleeping: |
-| SANCHEZ CASAS CESAR GABRIEL | :sleeping: | :sleeping: | :x: | :sleeping: |
+| SANCHEZ CASAS CESAR GABRIEL | Comportamiento | state | /State/SanchezCesar | cuando el comportamiento de un objeto cambia dependiendo del estado del mismo.  |
 | SANDOVAL LIZARRAGA CHRISTOPHER FRANCISCO | :sleeping: | :sleeping: | :x: | :sleeping: |
 | TORRES FLORES IVAN ADRIAN | :sleeping: | :sleeping: | :x: | :sleeping: |
 | VEGA VEGA CRISTIAN ALEXIS | :sleeping: | :sleeping: | :x: | :sleeping: |
