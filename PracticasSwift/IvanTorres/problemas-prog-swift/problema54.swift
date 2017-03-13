@@ -10,13 +10,13 @@ sube con 0.30 si callo el dia aterior
 y 0.60 si subio el dia anterior
  se ara con un random y se le sumara .30 o .60 segun suba o caiga
 
-var sueldo: Int = 0
+var callo: Int = 0
 var i: Int = 0
 
-sueldo = 1
+callo = 1
 while(i < 17){
-    sueldo += sueldo * 2
+    callo += callo * 2
     i += 1
 }
 
-print("Lo que gano el dependiente fue un total de: $" + String(sueldo))
+print("Lo que gano un dia antes fue de: $" + String(callo))
