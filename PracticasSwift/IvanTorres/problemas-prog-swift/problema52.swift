@@ -1,4 +1,4 @@
-/*Alumno: Ivan Adrian Torres Flores*/
+﻿/*Alumno: Ivan Adrian Torres Flores*/
 /* Numero de Control: 13210388*/
 /*Patrones de diseño*/
 
@@ -11,3 +11,54 @@ Y  1/3    sumar 1 cada 3 disparos
 quien tiene mas probabilidades de sobrevivir?
 
 
+if(nu1>nu2&&nu1>nu3)
+{
+
+
+if(nu2>nu3)
+{
+
+print(nu1!,nu2!,nu3!)
+
+}
+else
+{
+print(nu1!,nu3!,nu2!)
+}
+
+
+}
+
+else if(nu2>nu1&&nu2>nu3)
+{
+
+if(nu1>nu3)
+{
+print(nu2!,nu1!,nu3!)
+
+}
+else
+{
+
+print(nu2!,nu3!,nu1!)
+}
+
+}
+else if(nu3>nu1&&nu3>nu2)
+{
+
+
+if(nu1>nu2)
+{
+
+print(nu3!,nu1!,nu2!)
+}
+else{
+
+print(nu3!,nu2!,nu1!)
+
+}
+
+
+
+}

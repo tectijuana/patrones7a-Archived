@@ -1,4 +1,4 @@
-/*Alumno: Ivan Adrian Torres Flores*/
+﻿/*Alumno: Ivan Adrian Torres Flores*/
 /* Numero de Control: 13210388*/
 /*Patrones de diseño*/
 
@@ -30,3 +30,9 @@ var nac = 10 //numeros de nacimiento
 var m = 1 //
 var h = 1 //
 var 
+import Foundation
+
+
+let resultado=(10+7+10+15)/4
+
+print("probabilidad: ",resultado)

@@ -1,4 +1,4 @@
-/*Alumno: Ivan Adrian Torres Flores*/
+﻿/*Alumno: Ivan Adrian Torres Flores*/
 /* Numero de Control: 13210388*/
 /*Patrones de diseño*/
 
@@ -9,3 +9,14 @@
 sube con 0.30 si callo el dia aterior
 y 0.60 si subio el dia anterior
  se ara con un random y se le sumara .30 o .60 segun suba o caiga
+
+var sueldo: Int = 0
+var i: Int = 0
+
+sueldo = 1
+while(i < 17){
+    sueldo += sueldo * 2
+    i += 1
+}
+
+print("Lo que gano el dependiente fue un total de: $" + String(sueldo))
