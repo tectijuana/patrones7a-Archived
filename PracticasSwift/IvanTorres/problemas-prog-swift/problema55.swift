@@ -7,12 +7,12 @@
 
 var prob1:
 var edades: [Double] = [25, 35, 47, 51.5, 60]
-var presion: Double
+var clase: Double
 var i: Int = 0
 
 
 while (i < edades.count) {
-    presion = 100 * ((1/2) * edades[i])
-    print("La presion de la persona " + String(i + 1) + " es: " + String(presion))
+    clase = 100 * ((1/2) * edades[i])
+    print("La presion de la persona " + String(i + 1) + " es: " + String(clase))
     i += 1
 }
