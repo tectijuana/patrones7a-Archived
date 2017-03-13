@@ -28,7 +28,7 @@ Visitor
 | GARCIA ZUÑIGA ANA KAREN | :sleeping: | :sleeping: | :x: | :sleeping: |
 | GASTELUM ALEMAN CRISTOBAL | :sleeping: | :sleeping: | :x: | :sleeping: |
 | GASTELUM NIEVES CARLOS | :sleeping: | :sleeping: | :x: | :sleeping: |
-| GONZALEZ ESPARZA LUIS MANUEL | Comportamiento | Chain of Responsibility | /GonzalezLuis | :sleeping: |
+| GONZALEZ ESPARZA LUIS MANUEL | Comportamiento | Chain of Responsibility | /ChainGonzalezLuis | El patrón de diseño Chain of Responsibility es un patrón de comportamiento que evita acoplar el emisor de una petición a su receptor dando a más de un objeto la posibilidad de responder a una petición |
 | GONZALEZ MENDEZ ULISES DE JESUS | :sleeping: | :sleeping: | :x: | :sleeping: |
 | GUERRERO MARTINEZ DANIEL |Comportamiento| memento | /Memento/danielguerrero | guarda un estado del objeto o del programa en un momento dado de manera que se pueda restaurar en ese punto de manera sencilla. |
 | JUAREZ MEDINA YESIFER CINTHYA | :sleeping: | :sleeping: | :x: | :sleeping: |
