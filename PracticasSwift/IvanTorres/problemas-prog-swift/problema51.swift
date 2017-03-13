@@ -24,12 +24,12 @@ hombre
 10/15 *probabilidad de que sea en una sala
 10/7+10/15=(10*15)+(7*10)=(10500)+(70)=(10570)/(7*15=105)=(10570/105)=2114/21 *probabilida de que sea un niño*/
 
-var semana = 7 //dias de la semana
-var salas = 15 //salas de hospital
-var nac = 10 //numeros de nacimiento
-var m = 1 //
-var h = 1 //
-var 
+var semana = 7 /*dias de la semana*/
+var salas = 15 /*salas de hospital*/
+var nac = 10 /*numeros de nacimiento*/
+var m = 1 
+var h = 1 
+
 import Foundation
 
 
