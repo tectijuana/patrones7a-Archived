@@ -29,7 +29,7 @@ en la parte 3 del libro. Son un total de siete: Adapter, Bridge, Co
 | GONZALEZ MENDEZ ULISES DE JESUS | :sleeping: | :sleeping: | :x: | :sleeping: |
 | GUERRERO MARTINEZ DANIEL | :sleeping: | :sleeping: | :x: | :sleeping: |
 | JUAREZ MEDINA YESIFER CINTHYA | :sleeping: | :sleeping: | :x: | :sleeping: |
-| LARDIZABAL RAMIREZ JUAN CARLOS | :sleeping: | :sleeping: | :x: | :sleeping: |
+| LARDIZABAL RAMIREZ JUAN CARLOS | Estructura | Bridge | patrones/estructura/Bridge/LardizabalJuan | es una técnica usada en programación para desacoplar una abstracción de su implementación, de manera que ambas puedan ser modificadas independientemente sin necesidad de alterar por ello la otra. |
 | LOPEZ VALENZUELA MARCO ANTONIO | :sleeping: | :sleeping: | :x: | :sleeping: |
 | MENDOZA MARTINEZ BEATRIZ DAYHAN | :sleeping: | :sleeping: | :x: | :sleeping: |
 | NERIA DIAZ ANTHONY EMMANUEL | :sleeping: | :sleeping: | :x: | :sleeping: |
