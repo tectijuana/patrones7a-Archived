@@ -4,9 +4,9 @@
 /*Capitulo I*/
 /*Practica 8: Determinar si un entero dado es un multiplo de 6 */
 
-let DescripcionNumeros = ["0","6","12","18","24","30","36","42","48","54","60","66","72","78","84","90","96","102","108","114", "120","126","132","138"]
-let count = DescripcionNumeros.count
+let Multiplosde6 = ["0","6","12","18","24","30","36","42","48","54","60","66","72","78","84","90","96","102","108","114", "120","126","132","138"]
+let count = Multiplosde6.count
 for i in 0..<count {
-    print(" \(DescripcionNumeros[i])")
+    print(" \(Multiplosde6[i])")
 }
 
