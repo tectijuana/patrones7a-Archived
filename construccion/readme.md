@@ -47,4 +47,4 @@ libro. Son un total de cinco: Abstract Factory, Builder, Factory Metho
 | TORRES FLORES IVAN ADRIAN | :sleeping: | :sleeping: | :x: | :sleeping: |
 | VEGA VEGA CRISTIAN ALEXIS | :sleeping: | :sleeping: | :x: | :sleeping: |
 | VILLEGAS CASTILLO OMAR | :sleeping: | :sleeping: | :x: | :sleeping: |
-| YOUNG PEREZ NELSON JUNIOR | :sleeping: | :sleeping: | :x: | :sleeping: |
+| YOUNG PEREZ NELSON JUNIOR | Construccion | Singleton | /Singleton/YoungNelson | es un patrón de diseño diseñado para restringir la creación de objetos pertenecientes a una clase o el valor de un tipo a un único objeto. |
