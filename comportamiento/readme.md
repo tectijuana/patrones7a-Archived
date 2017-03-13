@@ -30,7 +30,7 @@ Visitor
 | GASTELUM NIEVES CARLOS | :sleeping: | :sleeping: | :x: | :sleeping: |
 | GONZALEZ ESPARZA LUIS MANUEL | :sleeping: | :sleeping: | :x: | :sleeping: |
 | GONZALEZ MENDEZ ULISES DE JESUS | :sleeping: | :sleeping: | :x: | :sleeping: |
-| GUERRERO MARTINEZ DANIEL | :sleeping: | :sleeping: | :x: | :sleeping: |
+| GUERRERO MARTINEZ DANIEL |Comportamiento| memento | /Memento/danielguerrero | guarda un estado del objeto o del programa en un momento dado de manera que se pueda restaurar en ese punto de manera sencilla. |
 | JUAREZ MEDINA YESIFER CINTHYA | :sleeping: | :sleeping: | :x: | :sleeping: |
 | LARDIZABAL RAMIREZ JUAN CARLOS | :sleeping: | :sleeping: | :x: | :sleeping: |
 | LOPEZ VALENZUELA MARCO ANTONIO | :sleeping: | :sleeping: | :x: | :sleeping: |
