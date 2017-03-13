@@ -28,7 +28,7 @@ Visitor
 | GARCIA ZUÑIGA ANA KAREN | :sleeping: | :sleeping: | :x: | :sleeping: |
 | GASTELUM ALEMAN CRISTOBAL | :sleeping: | :sleeping: | :x: | :sleeping: |
 | GASTELUM NIEVES CARLOS | :sleeping: | :sleeping: | :x: | :sleeping: |
-| GONZALEZ ESPARZA LUIS MANUEL | Comportamiento | Chain of Responsibility | /ChainOfResponsibilityGonzalezLuis | El patrón de diseño Chain of Responsibility es un patrón de comportamiento que evita acoplar el emisor de una petición a su receptor dando a más de un objeto la posibilidad de responder a una petición |
+| GONZALEZ ESPARZA LUIS MANUEL | Comportamiento | Chain of Responsibility | /GonzalezLuis | :sleeping: |
 | GONZALEZ MENDEZ ULISES DE JESUS | :sleeping: | :sleeping: | :x: | :sleeping: |
 | GUERRERO MARTINEZ DANIEL |Comportamiento| memento | /Memento/danielguerrero | guarda un estado del objeto o del programa en un momento dado de manera que se pueda restaurar en ese punto de manera sencilla. |
 | JUAREZ MEDINA YESIFER CINTHYA | :sleeping: | :sleeping: | :x: | :sleeping: |
@@ -48,6 +48,6 @@ Visitor
 | SANCHEZ CASAS CESAR GABRIEL | Comportamiento | state | /State/SanchezCesar | cuando el comportamiento de un objeto cambia dependiendo del estado del mismo.  |
 | SANDOVAL LIZARRAGA CHRISTOPHER FRANCISCO | :sleeping: | :sleeping: | :x: | :sleeping: |
 | TORRES FLORES IVAN ADRIAN | :sleeping: | :sleeping: | :x: | :sleeping: |
-| VEGA VEGA CRISTIAN ALEXIS | :sleeping: | :sleeping: | :x: | :sleeping: |
+| VEGA VEGA CRISTIAN ALEXIS | comportamiento | visitor | /visitor/VegaCristian | es una forma de separar el algoritmo de la estructura de un objeto. |
 | VILLEGAS CASTILLO OMAR | :sleeping: | :sleeping: | :x: | :sleeping: |
 | YOUNG PEREZ NELSON JUNIOR | :sleeping: | :sleeping: | :x: | :sleeping: |
