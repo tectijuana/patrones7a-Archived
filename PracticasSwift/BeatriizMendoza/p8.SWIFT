@@ -1,8 +1,0 @@
- print("Una mesa mide 2.31 m. Si va a seccionarse en cuatro tramos de igual longitud, Cuantos centimetros tendra cada una? Si va a cortarse por la mitad. Cuantos centimetros habra del centro a cada extremo?") 
-  
-	 let cuarto = 231/4 
- 
-	 let mitad = 231/2 
-  
-print("Si se divide en cuatro sera de \(cuarto) cm y si es a l mitad sera de \(mitad)") 
-

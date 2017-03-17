@@ -1,4 +1,0 @@
-/*Reyes Gutierrez*/
-
-a = "hello world"
-print(a);

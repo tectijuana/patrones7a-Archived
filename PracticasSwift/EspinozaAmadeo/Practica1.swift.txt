@@ -1,3 +1,0 @@
-/*Espinoza Amadeo*/
-
-print("Hola Mundo!");
